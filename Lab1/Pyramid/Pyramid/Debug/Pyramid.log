@@ -1,0 +1,6 @@
+﻿  pyramid.cpp
+C:\Users\bruh1\Documents\OOP\Pyramid\Pyramid\pyramid.cpp(25,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\bruh1\Documents\OOP\Pyramid\Pyramid\pyramid.cpp(25,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\bruh1\Documents\OOP\Pyramid\Pyramid\pyramid.cpp(25,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\bruh1\Documents\OOP\Pyramid\Pyramid\pyramid.cpp(25,10): message : this argument is used as a buffer size
+  Pyramid.vcxproj -> C:\Users\bruh1\Documents\OOP\Pyramid\Debug\Pyramid.exe
